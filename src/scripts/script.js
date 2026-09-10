@@ -1,3 +1,4 @@
+// SPIN BUTTON (SPIN!!!!!!!!!)
 const btn = document.getElementById('spin');
 const gato = document.getElementById('gatobabudo')
 
